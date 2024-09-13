@@ -1,0 +1,1 @@
+[{"e posta": "mervetutar@gmail.com"}, {"sifre": "12345"}, {"gecerlilik suresi": 30}]
